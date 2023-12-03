@@ -1,38 +1,41 @@
 ## Deskripsi Aplikasi
-Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
-<br><br>
-Source Blog :  <a href="https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html" target="_blank">
-https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html</a>
-<br>
-<br>
-Beli versi terbaru nya di link berikut : <a href="https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html" target="_blank">https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html</a>
-<br>
-<br>
-<span style="color:red"><b> * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)</b></span>
+Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman. Dibuat dengan framework codeigniter 3 dan database Mysql
 
-##  Framework
-* Codeigniter 3.1.11
-* Template Admin LTE  Versi 2.4
+Tampilan halaman login
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/2d1e48a2-bea0-4ad6-8b39-ec7365dd958c)
 
-## Penggunaan Login Akses
+Dashboard Petugas Perpustakaan
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/8b772f9f-17c7-44de-ac4b-430c15e36539)
 
-<b>Petugas Perpus : </b>
-<br/>
-Username : anang
-<br/>
-Password : 123
+Dashboard Data Pengguna
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/a09531de-50b5-46c2-b355-a397b9453c1e)
 
-<b>Anggota Perpus :</b>
-<br/>
-Username : fauzan
-<br/>
-Password : 123
+Tampilan data buku yang tersedia untuk dipinjam
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/3291e073-32ba-4b97-9884-8d9fbaa298b8)
 
-** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
+Data Buku yang dipinjam pada menu anggota
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/3a535f9d-64b1-4ee4-b105-c692c4f36f86)
 
-## Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
+Data peminjam buku pada menu petugas
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/ffab0e52-171b-473a-ac2c-558516fe4aee)
 
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
+Data buku yang sudah dikembalikan pada menu petugas 
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/92e8360c-dc03-46e4-bd6c-d022ba7600a1)
 
-Gunakan Aplikasi dengan bijak, dan selamat belajar
+Data pengembalian buku pada menu anggota
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/796423e5-8e2e-489f-a7a4-627ae6e29271)
+
+Jumlah Denda jika telat mengembalikan buku
+![image](https://github.com/shilnaprdisa/SistemPerpustakaan/assets/113671337/45fd6615-b5cb-469e-8e06-e9408131375e)
+
+
+
+
+
+
+
+
+
+
+
+
